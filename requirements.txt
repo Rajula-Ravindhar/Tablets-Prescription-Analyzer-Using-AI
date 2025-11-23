@@ -1,0 +1,8 @@
+python
+sqllite3
+streamlit
+streamlit_geolocation
+python-dot_env
+google-genai
+Pillow
+pandas
